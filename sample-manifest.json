@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9af52d77-3422-4ac2-9f69-065cea3b0254",
+  "id_short": 922979,
+  "published_at": "2026-04-16T07:12:07Z",
+  "repo_name": "all-restaurants-in-duluth-minnesota-us-sample-922979",
+  "sample_asset_name": "beamstation_922979_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/922979/beamstation_922979_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_records": 21,
+  "sample_sha256": "3a9aa38d881f725a13606bbea059d4ed89bc47422f1693deaf48ffcbc285a83d",
+  "sample_size_bytes": 88087,
+  "total_records": 212
+}
