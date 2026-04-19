@@ -9,9 +9,9 @@
 | Dataset ID | `922979` |
 | Location | Duluth |
 | Category | Restaurants |
-| Full dataset size | 212 records |
-| Free sample size | 21 records (9.91%) |
-| Last export | 2026-04-09T14:29:38.530825+00:00 |
+| Full dataset size | 211 records |
+| Free sample size | 21 records (9.95%) |
+| Last export | 2026-04-16T15:36:25.433345+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-duluth-minnesota-us-sample-922979/releases/download/sample-latest/beamstation_922979_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
