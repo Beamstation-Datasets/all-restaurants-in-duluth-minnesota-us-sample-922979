@@ -1,6 +1,6 @@
 # All Restaurants in Duluth, Minnesota, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `922979` |
 | Location | Duluth |
 | Category | Restaurants |
-| Full dataset size | 39 records |
-| Free sample size | 3 records (7.69%) |
-| Last export | 2026-04-23T13:38:27.135741+00:00 |
+| Full dataset size | 222 records |
+| Free sample size | 22 records (9.91%) |
+| Last export | 2026-04-30T14:04:42.964232+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-duluth-minnesota-us-sample-922979/releases/download/sample-latest/beamstation_922979_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
